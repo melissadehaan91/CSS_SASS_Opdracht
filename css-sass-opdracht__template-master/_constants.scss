@@ -1,0 +1,10 @@
+/* Variables */
+$padding: 20px;
+$green-background: #97d279;
+$shadow: rgba(0, 0, 0, 0.75);
+$line-color: #000;
+
+/* Mixin */
+@mixin flex {
+  display: flex;
+}
